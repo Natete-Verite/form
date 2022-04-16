@@ -1,0 +1,133 @@
+body{
+    background: linear-gradient(70deg,rgb(218, 218, 99),rgb(241, 143, 241));
+}
+.image-box{
+    position: relative;
+    background:rgb(219, 219, 137); 
+    width: 300px;
+    height: 500px;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+    /* margin: 100px; */
+}
+section{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 6%;
+}
+
+.content-box{
+    position: relative;
+    width: 600px;
+    height: 500px;
+    background-color: azure;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+img{
+    margin-right: 7%;
+    margin-top: 30%;
+}
+h3{
+    /* margin-right: 10px; */
+    padding-left: 50px;
+}
+.lines{
+    display: flex;
+    margin-bottom: 10%;
+
+}
+p{
+    margin-left: 50px;
+    margin-top: 20%;
+}
+.info{
+    display: flex;
+    margin-top: -10%;
+}
+.lines{
+    margin-right: -1%;
+}
+header{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+h2{
+    margin-left: 20%;
+    margin-top: 70px;
+}
+.button{
+    background-color:rgb(20, 20, 241);
+    color: rgb(245, 240, 234);
+    /* padding: 3px; */
+    margin-left: 20%;
+    margin-bottom: 15%;
+    border-radius: 5px;
+    width: 40%;
+    text-align: center;
+    
+}
+.fa-google{
+    color: blanchedalmond;
+    text-decoration: none;
+    margin-right: 40%;
+    margin: top 8%;
+}
+.fa-twitter{
+    color: rgb(107, 103, 103);
+    text-decoration: none;
+    margin-left: 5%;
+    display: inline-block;
+    background-color: rgb(201, 198, 198);
+    padding: 10px;
+}
+.fa-facebook{
+    color: rgb(107, 103, 103);
+    text-decoration: none;
+    margin-left: 5%;
+    display: inline-block;
+    background-color: rgb(201, 198, 198);
+    padding: 11px;
+}
+a{
+    margin-right: 5%;
+}
+/* .lines{
+display: flex;
+margin-bottom: -70%;
+margin-left: -10%;
+} */
+.line-one{
+    margin-right: 1%;
+}
+.line-two{
+    margin-left: 1%;
+}
+.info{
+    display: flex;
+    margin-bottom: 1%;
+}
+.primary-info1{
+    margin-left: 20%;
+}
+.primary-info2{
+    margin-left: 5%;
+}
+.email{
+    margin-left: 20%; 
+}
+.passwords{
+    margin-left: 20%;
+}
+.check{
+    margin-left: 20%;
+}
+.account{
+    margin-left: 20%;
+    background-color: rgb(87, 29, 29);
+    border-radius: 5px;
+    padding: 5px;
+}
+.icons{
+    margin-bottom: -13%;
+}
